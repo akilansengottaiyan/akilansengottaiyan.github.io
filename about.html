@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
  
      <!-- Site Metas -->
-    <title>SmartEDU - Education Responsive HTML5 Template</title>  
+    <title>StationHq</title>  
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -39,7 +39,17 @@
 
 </head>
 <body class="host_version"> 
-
+        <script src="https://cdn.stationhq.com/public/widget.js"></script>
+        <script>
+        var STATION_CONFIG = {
+            selector: '.customer-box',
+            account: 'c8daa201-3395-44cc-bcca-d6199ec2c97d', // DO NOT CHANGE THIS
+          }
+          StationWidget.mount()
+        </script>
+    <!-- <script>
+    StationWidget.mount()
+</script> -->
 	<!-- Modal -->
 	<div class="modal fade" id="login" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 	  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
