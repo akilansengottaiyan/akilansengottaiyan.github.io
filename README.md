@@ -43,43 +43,43 @@
 <div style="margin-bottom:8px;">
 <div style="display:flex;align-items:center;margin-bottom:4px;">
   <a href="https://www.freshworks.com/website-monitoring/" style="margin-right : 20px;">Freshping</a>
-  <img src="https://img.shields.io/badge/reactjs-444?style=for-the-badge&logo=react" />&nbsp;
-  <img src="https://img.shields.io/badge/django-444?style=for-the-badge&logo=django" />&nbsp;
+  <img src="https://img.shields.io/badge/reactjs-444?style=flat-square&logo=react" />&nbsp;
+  <img src="https://img.shields.io/badge/django-444?style=flat-square&logo=django" />&nbsp;
 </div>
 </div>
 <div style="margin-bottom:8px;">
   <div style="display:flex;align-items:center;margin-bottom:4px;">
   <a href="https://www.freshworks.com/status-page/"  style="margin-right:20px;">Freshstatus</a>
-  <img src="https://img.shields.io/badge/nextjs-444?style=for-the-badge&logo=nextdotjs"/>&nbsp;
-  <img src="https://img.shields.io/badge/django-444?style=for-the-badge&logo=django"/>&nbsp;
+  <img src="https://img.shields.io/badge/nextjs-444?style=flat-square&logo=nextdotjs"/>&nbsp;
+  <img src="https://img.shields.io/badge/django-444?style=flat-square&logo=django"/>&nbsp;
   </div>
 </div>
 <div style="margin-bottom:8px;">
 <div style="display:flex;align-items:center;margin-bottom:4px;">
 <a href="https://www.freshworks.com/shared-inbox/"  style="margin-right : 20px;">Freshinbox</a>
-  <img src="https://img.shields.io/badge/chrome_extension-666?style=for-the-badge&logo=googlechrome"/>&nbsp;
-  <img src="https://img.shields.io/badge/reactjs-444?style=for-the-badge&logo=react"/>&nbsp;
-  <img src="https://img.shields.io/badge/koajs-444?style=for-the-badge&logo=koa"/>&nbsp;
+  <img src="https://img.shields.io/badge/chrome_extension-666?style=flat-square&logo=googlechrome"/>&nbsp;
+  <img src="https://img.shields.io/badge/reactjs-444?style=flat-square&logo=react"/>&nbsp;
+  <img src="https://img.shields.io/badge/koajs-444?style=flat-square&logo=koa"/>&nbsp;
 </div>
 </div>
 <div>
 <div>
 <div style="display:flex;align-items:center;margin-bottom:4px;">
 <a href="https://www.npmjs.com/package/freemium-ui" style="margin-right:20px;">Freemium-ui</a>
-<img src="https://img.shields.io/badge/npm-666?style=for-the-badge&logo=npm"/>&nbsp;
-<img src="https://img.shields.io/badge/typescript-444?style=for-the-badge&logo=typescript"/>&nbsp;
-<img src="https://img.shields.io/badge/reactjs-444?style=for-the-badge&logo=react"/>&nbsp;
-<img src="https://img.shields.io/badge/webpack-444?style=for-the-badge&logo=webpack"/>&nbsp;
+<img src="https://img.shields.io/badge/npm-666?style=flat-square&logo=npm"/>&nbsp;
+<img src="https://img.shields.io/badge/typescript-444?style=flat-square&logo=typescript"/>&nbsp;
+<img src="https://img.shields.io/badge/reactjs-444?style=flat-square&logo=react"/>&nbsp;
+<img src="https://img.shields.io/badge/webpack-444?style=flat-square&logo=webpack"/>&nbsp;
 </div>
 </div>
 <div style="margin-bottom:8px;">
 <div style="display:flex;align-items:center;margin-bottom:4px;">
 <a href="https://www.freshworks.com/survey/" style="margin-right:20px;">Freshsurvey</a>
-<img src="https://img.shields.io/badge/functional_programming-666?style=for-the-badge"/>&nbsp;
-<img src="https://img.shields.io/badge/typescript-444?style=for-the-badge&logo=typescript"/>&nbsp;
-<img src="https://img.shields.io/badge/nextjs-444?style=for-the-badge&logo=nextdotjs"/>&nbsp;
-<img src="https://img.shields.io/badge/testing_library-444?style=for-the-badge&logo=testinglibrary"/>&nbsp;
-<img src="https://img.shields.io/badge/webpack-444?style=for-the-badge&logo=webpack"/>&nbsp;
+<img src="https://img.shields.io/badge/functional_programming-666?style=flat-square"/>&nbsp;
+<img src="https://img.shields.io/badge/typescript-444?style=flat-square&logo=typescript"/>&nbsp;
+<img src="https://img.shields.io/badge/nextjs-444?style=flat-square&logo=nextdotjs"/>&nbsp;
+<img src="https://img.shields.io/badge/testing_library-444?style=flat-square&logo=testinglibrary"/>&nbsp;
+<img src="https://img.shields.io/badge/webpack-444?style=flat-square&logo=webpack"/>&nbsp;
 </div>
 </div>
 </div>
@@ -90,19 +90,19 @@
 <div style="margin-bottom:16px;">
 <div style="display:flex;align-items:center;margin-bottom:4px;">
   <a href="https://unheard.co/" style="margin-right : 20px;">Unheard</a>
-  <img src="https://img.shields.io/badge/widget-666?style=for-the-badge&logo=widget"/>&nbsp;
-  <img src="https://img.shields.io/badge/nextjs-444?style=for-the-badge&logo=nextdotjs"/>&nbsp;
-  <img src="https://img.shields.io/badge/koajs-444?style=for-the-badge&logo=koa"/>&nbsp;
-  <img src="https://img.shields.io/badge/webpack-444?style=for-the-badge&logo=webpack"/>&nbsp;
+  <img src="https://img.shields.io/badge/widget-666?style=flat-square&logo=widget"/>&nbsp;
+  <img src="https://img.shields.io/badge/nextjs-444?style=flat-square&logo=nextdotjs"/>&nbsp;
+  <img src="https://img.shields.io/badge/koajs-444?style=flat-square&logo=koa"/>&nbsp;
+  <img src="https://img.shields.io/badge/webpack-444?style=flat-square&logo=webpack"/>&nbsp;
 </div>
 </div>
 
 <div>
 <div style="display:flex;align-items:center;margin-bottom:4px;">
   <a href="https://github.com/akilansengottaiyan/web3-101" style="margin-right : 20px;">Novice web3 application</a>
-  <img src="https://img.shields.io/badge/ethereum-444?style=for-the-badge&logo=ethereum"/>&nbsp;
-  <img src="https://img.shields.io/badge/solidity-444?style=for-the-badge&logo=solidity"/>&nbsp;
-  <img src="https://img.shields.io/badge/webjs-444?style=for-the-badge&logo=web3dotjs"/>&nbsp;
+  <img src="https://img.shields.io/badge/ethereum-444?style=flat-square&logo=ethereum"/>&nbsp;
+  <img src="https://img.shields.io/badge/solidity-444?style=flat-square&logo=solidity"/>&nbsp;
+  <img src="https://img.shields.io/badge/webjs-444?style=flat-square&logo=web3dotjs"/>&nbsp;
 </div>
 </div>
 
