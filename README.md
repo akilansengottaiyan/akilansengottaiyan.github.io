@@ -42,21 +42,21 @@
 
 <div style="margin-bottom:8px;">
 <div style="display:flex;align-items:center;margin-bottom:4px;">
-  <a href="https://www.freshworks.com/website-monitoring/" style="margin-right : 20px;">Freshping</a>
+  <a href="https://www.freshworks.com/website-monitoring/" style="margin-right:20px;display:block;">Freshping</a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/reactjs-444?style=flat-square&logo=react" />&nbsp;
   <img src="https://img.shields.io/badge/django-444?style=flat-square&logo=django" />&nbsp;
 </div>
 </div>
 <div style="margin-bottom:8px;">
   <div style="display:flex;align-items:center;margin-bottom:4px;">
-  <a href="https://www.freshworks.com/status-page/"  style="margin-right:20px;">Freshstatus</a>
+  <a href="https://www.freshworks.com/status-page/"  style="margin-right:20px;">Freshstatus</a>&nbsp;
   <img src="https://img.shields.io/badge/nextjs-444?style=flat-square&logo=nextdotjs"/>&nbsp;
   <img src="https://img.shields.io/badge/django-444?style=flat-square&logo=django"/>&nbsp;
   </div>
 </div>
 <div style="margin-bottom:8px;">
 <div style="display:flex;align-items:center;margin-bottom:4px;">
-<a href="https://www.freshworks.com/shared-inbox/"  style="margin-right : 20px;">Freshinbox</a>
+<a href="https://www.freshworks.com/shared-inbox/"  style="margin-right : 20px;">Freshinbox</a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/chrome_extension-666?style=flat-square&logo=googlechrome"/>&nbsp;
   <img src="https://img.shields.io/badge/reactjs-444?style=flat-square&logo=react"/>&nbsp;
   <img src="https://img.shields.io/badge/koajs-444?style=flat-square&logo=koa"/>&nbsp;
@@ -65,7 +65,7 @@
 <div>
 <div>
 <div style="display:flex;align-items:center;margin-bottom:4px;">
-<a href="https://www.npmjs.com/package/freemium-ui" style="margin-right:20px;">Freemium-ui</a>
+<a href="https://www.npmjs.com/package/freemium-ui" style="margin-right:20px;">Freemium-ui</a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/npm-666?style=flat-square&logo=npm"/>&nbsp;
 <img src="https://img.shields.io/badge/typescript-444?style=flat-square&logo=typescript"/>&nbsp;
 <img src="https://img.shields.io/badge/reactjs-444?style=flat-square&logo=react"/>&nbsp;
@@ -74,7 +74,7 @@
 </div>
 <div style="margin-bottom:8px;">
 <div style="display:flex;align-items:center;margin-bottom:4px;">
-<a href="https://www.freshworks.com/survey/" style="margin-right:20px;">Freshsurvey</a>
+<a href="https://www.freshworks.com/survey/" style="margin-right:20px;">Freshsurvey</a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/functional_programming-666?style=flat-square"/>&nbsp;
 <img src="https://img.shields.io/badge/typescript-444?style=flat-square&logo=typescript"/>&nbsp;
 <img src="https://img.shields.io/badge/nextjs-444?style=flat-square&logo=nextdotjs"/>&nbsp;
@@ -89,7 +89,7 @@
 
 <div style="margin-bottom:16px;">
 <div style="display:flex;align-items:center;margin-bottom:4px;">
-  <a href="https://unheard.co/" style="margin-right : 20px;">Unheard</a>
+  <a href="https://unheard.co/" style="margin-right : 20px;">Unheard</a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/widget-666?style=flat-square&logo=widget"/>&nbsp;
   <img src="https://img.shields.io/badge/nextjs-444?style=flat-square&logo=nextdotjs"/>&nbsp;
   <img src="https://img.shields.io/badge/koajs-444?style=flat-square&logo=koa"/>&nbsp;
@@ -99,7 +99,7 @@
 
 <div>
 <div style="display:flex;align-items:center;margin-bottom:4px;">
-  <a href="https://github.com/akilansengottaiyan/web3-101" style="margin-right : 20px;">Novice web3 application</a>
+  <a href="https://github.com/akilansengottaiyan/web3-101" style="margin-right:20px;">Novice web3 application</a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ethereum-444?style=flat-square&logo=ethereum"/>&nbsp;
   <img src="https://img.shields.io/badge/solidity-444?style=flat-square&logo=solidity"/>&nbsp;
   <img src="https://img.shields.io/badge/webjs-444?style=flat-square&logo=web3dotjs"/>&nbsp;
@@ -110,11 +110,11 @@
 
 ### OSS Reciprocity
 <div style="margin-bottom:16px;">
-<a href="https://www.npmjs.com/package/babel-plugin-jsx-control-statements-macros" style="margin-right :20px">Macro support for jsx control statements</a>
-<a href="https://www.npmjs.com/package/eslint-plugin-highlight-temporary-code" style="margin-right :20px">ESLint plugin to warn about temporary code</a>
+<a href="https://www.npmjs.com/package/babel-plugin-jsx-control-statements-macros" style="margin-right :20px;display:block;">Macro support for jsx control statements</a>
+<a href="https://www.npmjs.com/package/eslint-plugin-highlight-temporary-code" style="margin-right :20px;display:block;">ESLint plugin to warn about temporary code</a>
 <a href="https://github.com/akilansengottaiyan/-react-hook-form-simplified">Simplified react hook form</a>
-<a href="https://github.com/reach/reach-ui/pull/653" style="margin-right : 20px">Reach UI Menu button</a>
-<a href="https://github.com/ansumanshah/css-in-js/pull/40" style="margin-right :20px">CSS in JS vscode extension</a>
+<a href="https://github.com/reach/reach-ui/pull/653" style="margin-right : 20px;display:block;">Reach UI Menu button</a>
+<a href="https://github.com/ansumanshah/css-in-js/pull/40" style="margin-right :20px;display:block;">CSS in JS vscode extension</a>
 <br/>
 
 ### Other work experiences : 
@@ -123,5 +123,5 @@
 
 <div style="display:flex;align-items:center;margin-bottom:4px;">
   <a href="https://sap.build.me/" style="margin-right : 20px;">Build.me</a>
-  <img src="https://img.shields.io/badge/expressjs-444?style=for-the-badge&logo=express" />&nbsp;
+  <img src="https://img.shields.io/badge/expressjs-444?style=flat-square&logo=express" />&nbsp;
 </div>
