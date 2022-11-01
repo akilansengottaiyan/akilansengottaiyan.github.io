@@ -57,7 +57,7 @@
 <div style="margin-bottom:8px;">
 <div style="display:flex;align-items:center;margin-bottom:4px;">
 <a href="https://www.freshworks.com/shared-inbox/"  style="margin-right : 20px;"><h3>Freshinbox</h3></a>
-  <img src="https://img.shields.io/badge/chrome_extension-444?style=for-the-badge&logo=googlechrome"/>&nbsp;
+  <img src="https://img.shields.io/badge/chrome_extension-666?style=for-the-badge&logo=googlechrome"/>&nbsp;
   <img src="https://img.shields.io/badge/reactjs-444?style=for-the-badge&logo=react"/>&nbsp;
   <img src="https://img.shields.io/badge/koajs-444?style=for-the-badge&logo=koa"/>&nbsp;
 </div>
@@ -66,7 +66,7 @@
 <div>
 <div style="display:flex;align-items:center;margin-bottom:4px;">
 <a href="https://www.npmjs.com/package/freemium-ui" style="margin-right:20px;"><h3>Freemium-ui</h3></a>
-<img src="https://img.shields.io/badge/npm-444?style=for-the-badge&logo=npm"/>&nbsp;
+<img src="https://img.shields.io/badge/npm-666?style=for-the-badge&logo=npm"/>&nbsp;
 <img src="https://img.shields.io/badge/typescript-444?style=for-the-badge&logo=typescript"/>&nbsp;
 <img src="https://img.shields.io/badge/reactjs-444?style=for-the-badge&logo=react"/>&nbsp;
 <img src="https://img.shields.io/badge/webpack-444?style=for-the-badge&logo=webpack"/>&nbsp;
@@ -75,7 +75,7 @@
 <div style="margin-bottom:8px;">
 <div style="display:flex;align-items:center;margin-bottom:4px;">
 <a href="https://www.freshworks.com/survey/" style="margin-right:20px;"><h3>Freshsurvey</h3></a>
-<img src="https://img.shields.io/badge/functional_programming-666"/>&nbsp;
+<img src="https://img.shields.io/badge/functional_programming-666?style=for-the-badge"/>&nbsp;
 <img src="https://img.shields.io/badge/typescript-444?style=for-the-badge&logo=typescript"/>&nbsp;
 <img src="https://img.shields.io/badge/nextjs-444?style=for-the-badge&logo=nextdotjs"/>&nbsp;
 <img src="https://img.shields.io/badge/testing_library-444?style=for-the-badge&logo=testinglibrary"/>&nbsp;
@@ -90,7 +90,7 @@
 <div style="margin-bottom:16px;">
 <div style="display:flex;align-items:center;margin-bottom:4px;">
   <a href="https://unheard.co/" style="margin-right : 20px;"><h3>Unheard</h3></a>
-  <img src="https://img.shields.io/badge/widget-444?style=for-the-badge&logo=widget"/>&nbsp;
+  <img src="https://img.shields.io/badge/widget-666?style=for-the-badge&logo=widget"/>&nbsp;
   <img src="https://img.shields.io/badge/nextjs-444?style=for-the-badge&logo=nextdotjs"/>&nbsp;
   <img src="https://img.shields.io/badge/koajs-444?style=for-the-badge&logo=koa"/>&nbsp;
   <img src="https://img.shields.io/badge/webpack-444?style=for-the-badge&logo=webpack"/>&nbsp;
