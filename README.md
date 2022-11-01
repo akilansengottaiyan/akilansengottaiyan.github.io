@@ -110,10 +110,10 @@
 
 ### OSS Reciprocity
 <div style="margin-bottom:16px;">
-<a href="https://www.npmjs.com/package/babel-plugin-jsx-control-statements-macros" style="margin-right :20px;display:block;">Macro support for jsx control statements</a>
-<a href="https://www.npmjs.com/package/eslint-plugin-highlight-temporary-code" style="margin-right :20px;display:block;">ESLint plugin to warn about temporary code</a>
-<a href="https://github.com/akilansengottaiyan/-react-hook-form-simplified">Simplified react hook form</a>
-<a href="https://github.com/reach/reach-ui/pull/653" style="margin-right : 20px;display:block;">Reach UI Menu button</a>
+<a href="https://www.npmjs.com/package/babel-plugin-jsx-control-statements-macros" style="margin-right :20px;display:block;">Macro support for jsx control statements</a><br/>
+<a href="https://www.npmjs.com/package/eslint-plugin-highlight-temporary-code" style="margin-right :20px;display:block;">ESLint plugin to warn about temporary code</a><br/>
+<a href="https://github.com/akilansengottaiyan/-react-hook-form-simplified">Simplified react hook form</a><br/>
+<a href="https://github.com/reach/reach-ui/pull/653" style="margin-right : 20px;display:block;">Reach UI Menu button</a><br/>
 <a href="https://github.com/ansumanshah/css-in-js/pull/40" style="margin-right :20px;display:block;">CSS in JS vscode extension</a>
 <br/>
 
@@ -121,7 +121,5 @@
 #### SAP Labs, Bengaluru
 - Associate Developer | July 2018 - Mar 2019
 
-<div style="display:flex;align-items:center;margin-bottom:4px;">
-  <a href="https://sap.build.me/" style="margin-right : 20px;">Build.me</a>
-  <img src="https://img.shields.io/badge/expressjs-444?style=flat-square&logo=express" />&nbsp;
-</div>
+  [Build.me](https://sap.build.me/)&nbsp;
+ ![](https://img.shields.io/badge/expressjs-444?style=flat-square&logo=express)
