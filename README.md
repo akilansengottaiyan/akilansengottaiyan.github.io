@@ -124,4 +124,4 @@
   [Build.me](https://sap.build.me/)&nbsp;
  ![](https://img.shields.io/badge/expressjs-444?style=flat-square&logo=express)
          
-### For more about me,take a peek into [view my resume](https://drive.google.com/file/d/1_RlShIO41iPXrEKe0u4GkGN_jOPxmZj0/)
+### For more about me, take a peek into [view my resume](https://drive.google.com/file/d/1_RlShIO41iPXrEKe0u4GkGN_jOPxmZj0/)
